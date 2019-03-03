@@ -1,11 +1,11 @@
-Dia 1: verificar o que precisa para trabalhar
-	pulseira - achei em outro lab
-	cabo hdmi - procurar em casa
-	computador macro - cabo ethernet
-	teclado e mouse - peguei de outro pc
+Dia 1: verificar o que precisa para trabalhar ok
+	pulseira - achei em outro lab ok
+	cabo hdmi - procurar em casa ok
+	computador macro - cabo ethernet ok
+	teclado e mouse - peguei de outro pc ok
 
-Dia 2: Rodar Jetson com ubuntu mesmo e executar demo
-	instalar redhawk
+Dia 2: Rodar Jetson com ubuntu mesmo e executar demo ok
+	instalar redhawk - {e uma solucao paga - entrar em contato com site)
 	instalar ros
 	fazer alguns programas para se familiarizar
 	ler alguns artigos
